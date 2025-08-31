@@ -19,4 +19,4 @@ services:
 
 volumes:
   postgres_data:
-
+# docker-compose.yml doesn't contain: ["redis_data"]
